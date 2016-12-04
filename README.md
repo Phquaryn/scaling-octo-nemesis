@@ -1,2 +1,3 @@
 # scaling-octo-nemesis
-Udacity project
+color project
+just something for fun
