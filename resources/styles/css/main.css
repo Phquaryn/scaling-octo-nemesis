@@ -26,8 +26,8 @@ button.chapter1 > a:hover {
 	background-color: #95E1D3;
 	color: #581845
 }
-button.chapter1 > a:hover {
-	background-color: transparent;
+button.chapter1 {
+	background: transparent;
 	color: #581845
 }
 img {
