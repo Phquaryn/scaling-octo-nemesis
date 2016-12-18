@@ -22,6 +22,14 @@ h2 {
 ul.chapter1 {
   	list-style-type: none;
 }
+button.chapter1 > a:hover {
+	background-color: #95E1D3;
+	color: #581845
+}
+button.chapter1 > a:hover {
+	background-color: transparent;
+	color: #581845
+}
 img {
 	display: inline;
 }
