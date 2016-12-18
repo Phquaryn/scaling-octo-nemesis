@@ -1,7 +1,18 @@
 body {
 	color: #581845;
 	background: #FCE38A;
+	margin: 25px 25px 25px 25px;
 }
 h2 {
 	color: #F38181;
+}
+img {
+	display: inline;
+}
+/*tablet size*/
+
+/*phone size*/
+img {
+	width: 100%;
+    height: auto;
 }
