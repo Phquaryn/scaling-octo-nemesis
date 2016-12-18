@@ -3,8 +3,17 @@ body {
 	background: #FCE38A;
 	margin: 25px 25px 25px 25px;
 }
+h1 {
+	color: #95E1D3;
+}
 h2 {
 	color: #F38181;
+}
+#header {
+	background: #FCE38A;
+}
+#footer {
+    background: #EAFFD0;
 }
 img {
 	display: inline;
