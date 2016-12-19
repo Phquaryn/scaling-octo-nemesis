@@ -19,10 +19,13 @@ h2 {
     width: 100%;
     height: 60px;
 }
+#center {
+	text-align: center;
+}
 ul.chapter1 {
   	list-style-type: none;
 }
-button.chapter1 > a:hover {
+button.chapter1>a:hover, {
 	background-color: #95E1D3;
 	color: #581845
 }
