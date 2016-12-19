@@ -25,11 +25,11 @@ div.center {
 ul.chapter1 {
   	list-style-type: none;
 }
-btn-chapter1>.btn:hover, {
+button.btn.chapter1>.btn:hover, {
 	background-color: #95E1D3;
 	color: #581845
 }
-btn-chapter1 {
+button.btn.chapter1 {
 	background: transparent;
 	color: #581845
 }
