@@ -25,11 +25,11 @@ div.center {
 ul.chapter1 {
   	list-style-type: none;
 }
-button.btn.chapter1>.btn:hover, {
+button.chapter1.collapsed {
 	background-color: #95E1D3;
 	color: #581845
 }
-button.btn.chapter1 {
+button.chapter1 {
 	background: transparent;
 	color: #581845
 }
