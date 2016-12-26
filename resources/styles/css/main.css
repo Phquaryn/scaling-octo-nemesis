@@ -39,3 +39,26 @@ img {
 	width: 100%;
     height: auto;
 }
+/* unvisited link */
+a:link {
+    color: #95E1D3;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: #95E1D3;
+    text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+    color: blue;
+    text-decoration: underline;
+}
+
+/* selected link */
+a:active {
+    color: hotpink;
+    text-decoration: underline;
+}
